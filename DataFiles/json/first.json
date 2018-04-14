@@ -1,0 +1,14 @@
+[
+	{
+	"Username":"ABC",
+    "Password":123,
+    "CountyCode":"IND",
+    "PhoneNo":12345678
+    },
+    {
+    "Username":"XYZ",
+    "Password":456,
+    "CountyCode":"AUS",
+    "PhoneNo":852963147
+    }
+]

@@ -1,0 +1,97 @@
+{
+  "hosts" : [ {
+    "title" : "default",
+    "threads" : [ {
+      "title" : "default",
+      "testCases" : [ {
+        "uid" : "2ad7ace07efa4aa6",
+        "name" : "it should navigate to istock homepage",
+        "title" : "it should navigate to istock homepage",
+        "time" : {
+          "start" : 1497592501610,
+          "stop" : 1497592508634,
+          "duration" : 7024
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "6053d94c34fc2066",
+        "name" : "it should test valid credentials for application",
+        "title" : "it should test valid credentials for application",
+        "time" : {
+          "start" : 1497592508634,
+          "stop" : 1497592523459,
+          "duration" : 14825
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "3d86a95785ac1131",
+        "name" : "it should logout the application",
+        "title" : "it should logout the application",
+        "time" : {
+          "start" : 1497592523460,
+          "stop" : 1497592529292,
+          "duration" : 5832
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "e1d6e590ef02c7d9",
+        "name" : "it should test invalid credentials for application",
+        "title" : "it should test invalid credentials for application",
+        "time" : {
+          "start" : 1497592529292,
+          "stop" : 1497592538606,
+          "duration" : 9314
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "136f6603bdd910d5",
+        "name" : "it should navigate to istock homepage",
+        "title" : "it should navigate to istock homepage",
+        "time" : {
+          "start" : 1497592538616,
+          "stop" : 1497592542552,
+          "duration" : 3936
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a584161aec4a9dc3",
+        "name" : "it should verify number of elements in dropdown",
+        "title" : "it should verify number of elements in dropdown",
+        "time" : {
+          "start" : 1497592542552,
+          "stop" : 1497592543162,
+          "duration" : 610
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "11f55916aba257a0",
+        "name" : "it should navigate to istock homepage",
+        "title" : "it should navigate to istock homepage",
+        "time" : {
+          "start" : 1497592543162,
+          "stop" : 1497592547796,
+          "duration" : 4634
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5ab81fd454cd51ab",
+        "name" : "it should create first board",
+        "title" : "it should create first board",
+        "time" : {
+          "start" : 1497592547796,
+          "stop" : 1497592554977,
+          "duration" : 7181
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

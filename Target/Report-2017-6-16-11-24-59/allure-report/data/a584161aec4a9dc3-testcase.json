@@ -1,0 +1,44 @@
+{
+  "uid" : "a584161aec4a9dc3",
+  "name" : "it should verify number of elements in dropdown",
+  "title" : "it should verify number of elements in dropdown",
+  "time" : {
+    "start" : 1497592542552,
+    "stop" : 1497592543162,
+    "duration" : 610
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "6f3e37b1ca59cabd",
+    "name" : "istock homepage validations",
+    "title" : "istock homepage validations"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "d6fc2636-70fe-48c7-a65f-5d03cbc7d7df-attachment.png",
+    "type" : "image/png",
+    "size" : 1324549,
+    "uid" : "4362e99c557fce35"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "istock homepage validations"
+  }, {
+    "name" : "suite-title",
+    "value" : "istock homepage validations"
+  } ],
+  "parameters" : [ ]
+}

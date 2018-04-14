@@ -1,0 +1,44 @@
+{
+  "uid" : "5ab81fd454cd51ab",
+  "name" : "it should create first board",
+  "title" : "it should create first board",
+  "time" : {
+    "start" : 1497592547796,
+    "stop" : 1497592554977,
+    "duration" : 7181
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "55cefbbaa46a14a0",
+    "name" : "istock homepage validations istock board validations",
+    "title" : "istock homepage validations istock board validations"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "9c994432-af4b-4f03-b953-a17d95255dcf-attachment.png",
+    "type" : "image/png",
+    "size" : 52567,
+    "uid" : "5a957134de26db2d"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "istock homepage validations istock board validations"
+  }, {
+    "name" : "suite-title",
+    "value" : "istock homepage validations istock board validations"
+  } ],
+  "parameters" : [ ]
+}

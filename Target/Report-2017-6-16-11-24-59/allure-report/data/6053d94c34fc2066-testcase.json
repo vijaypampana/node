@@ -1,0 +1,44 @@
+{
+  "uid" : "6053d94c34fc2066",
+  "name" : "it should test valid credentials for application",
+  "title" : "it should test valid credentials for application",
+  "time" : {
+    "start" : 1497592508634,
+    "stop" : 1497592523459,
+    "duration" : 14825
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "6d2f3658560bbf42",
+    "name" : "istock login page validations",
+    "title" : "istock login page validations"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "300e6225-90dd-4fb1-9cb4-ff1118c7035d-attachment.png",
+    "type" : "image/png",
+    "size" : 1394770,
+    "uid" : "b5788c0ce898ba0d"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "suite-name",
+    "value" : "istock login page validations"
+  } ],
+  "parameters" : [ ]
+}

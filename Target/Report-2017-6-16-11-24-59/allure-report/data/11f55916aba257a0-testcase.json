@@ -1,0 +1,44 @@
+{
+  "uid" : "11f55916aba257a0",
+  "name" : "it should navigate to istock homepage",
+  "title" : "it should navigate to istock homepage",
+  "time" : {
+    "start" : 1497592543162,
+    "stop" : 1497592547796,
+    "duration" : 4634
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "55cefbbaa46a14a0",
+    "name" : "istock homepage validations istock board validations",
+    "title" : "istock homepage validations istock board validations"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "8902be36-05b0-4e96-87d6-1e756691a579-attachment.png",
+    "type" : "image/png",
+    "size" : 1270853,
+    "uid" : "919dbca31d935b21"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "istock homepage validations istock board validations"
+  }, {
+    "name" : "suite-title",
+    "value" : "istock homepage validations istock board validations"
+  } ],
+  "parameters" : [ ]
+}

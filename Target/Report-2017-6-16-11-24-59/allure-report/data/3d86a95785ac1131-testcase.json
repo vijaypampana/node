@@ -1,0 +1,47 @@
+{
+  "uid" : "3d86a95785ac1131",
+  "name" : "it should logout the application",
+  "title" : "it should logout the application",
+  "time" : {
+    "start" : 1497592523460,
+    "stop" : 1497592529292,
+    "duration" : 5832
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : "Expected false to be true.",
+    "stackTrace" : "Error: Failed expectation\n    at Object.<anonymous> (/Users/cts/Documents/Protractorwithunitapi/SpecFiles/istock_spec.js:22:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7"
+  },
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "6d2f3658560bbf42",
+    "name" : "istock login page validations",
+    "title" : "istock login page validations"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "fbd793bb-127c-4cbf-81dc-f6dbfc935c09-attachment.png",
+    "type" : "image/png",
+    "size" : 1300528,
+    "uid" : "fd35f9c8537976fc"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "suite-name",
+    "value" : "istock login page validations"
+  } ],
+  "parameters" : [ ]
+}

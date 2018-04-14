@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1497612184648" stop="1497612202756">
+	<name>istock homepage validations</name>
+	<title>istock homepage validations</title>
+	<test-cases>
+		<test-case start="1497612184648" stop="1497612189422" status="passed">
+			<name>it should navigate to istock homepage</name>
+			<title>it should navigate to istock homepage</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="01fc1d97-a2c1-472b-91bf-d7a1d7802aa1-attachment.png" type="image/png" size="1324339"/>
+			</attachments>
+		</test-case>
+		<test-case start="1497612189422" stop="1497612190160" status="passed">
+			<name>it should verify number of elements in dropdown</name>
+			<title>it should verify number of elements in dropdown</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="247df0b0-609e-4e97-81d4-f6d08ad18a15-attachment.png" type="image/png" size="1235338"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

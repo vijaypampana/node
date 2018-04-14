@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1497592501609" stop="1497592538606">
+	<name>istock login page validations</name>
+	<title>istock login page validations</title>
+	<test-cases>
+		<test-case start="1497592501610" stop="1497592508634" status="passed">
+			<name>it should navigate to istock homepage</name>
+			<title>it should navigate to istock homepage</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="950b029d-7d36-4737-9080-e88a698c8797-attachment.png" type="image/png" size="2145671"/>
+			</attachments>
+		</test-case>
+		<test-case start="1497592508634" stop="1497592523459" status="passed">
+			<name>it should test valid credentials for application</name>
+			<title>it should test valid credentials for application</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="300e6225-90dd-4fb1-9cb4-ff1118c7035d-attachment.png" type="image/png" size="1394770"/>
+			</attachments>
+		</test-case>
+		<test-case start="1497592523460" stop="1497592529292" status="failed">
+			<name>it should logout the application</name>
+			<title>it should logout the application</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="fbd793bb-127c-4cbf-81dc-f6dbfc935c09-attachment.png" type="image/png" size="1300528"/>
+			</attachments>
+			<failure>
+				<message>Expected false to be true.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/cts/Documents/Protractorwithunitapi/SpecFiles/istock_spec.js:22:37)
+    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25
+    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)
+    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)
+    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)
+    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)
+    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)
+    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)
+    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1497592529292" stop="1497592538606" status="passed">
+			<name>it should test invalid credentials for application</name>
+			<title>it should test invalid credentials for application</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="3f906400-a139-4f66-ac15-98d47fb1f676-attachment.png" type="image/png" size="1286236"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
